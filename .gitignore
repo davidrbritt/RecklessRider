@@ -1,0 +1,12 @@
+# Godot-specific ignores
+.godot/
+*.translation
+*.ttr
+
+# Specific to your local machine
+export_presets.cfg
+.import/
+
+# General ignores
+*.log
+.DS_Store
