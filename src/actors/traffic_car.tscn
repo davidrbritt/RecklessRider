@@ -1,0 +1,3 @@
+[gd_scene format=3 uid="uid://d16hsdo6tkrtc"]
+
+[node name="TrafficCar" type="Area2D" unique_id=875111910]
